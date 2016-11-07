@@ -1,0 +1,45 @@
+p {
+  font-family: 'Shrikhand', cursive;
+  /*border: 1px solid grey;*/
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+
+}
+
+h1{
+	margin: 0;
+	padding: 20px 0;
+	color: gray;/*#00539F;*/
+	width: 700px;
+	font-family: 'Shrikhand', cursive;
+	text-align: center;
+	font-size: 45px;
+	text-shadow: 3px 3px 1px black;
+}
+h2,h3,h4{
+	color: black;
+	text-align: center;
+	width: 700px;
+	font-family: 'Shrikhand', cursive;
+}
+p:hover{
+	color: blue
+}
+html {
+  font-size: 12px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Shrikhand', cursive;/*: this should be the rest of the output you got from Google fonts*/
+  background-color: grey;
+
+}
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
